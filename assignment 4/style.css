@@ -1,0 +1,47 @@
+body{
+	margin:0;
+	padding:0;
+	width: 100%;
+}
+.abc{
+	width:60;
+	float: left;
+}
+.abc2 input,select{
+	margin: 15px 0 0 0;
+	float: left;
+}
+.container{
+	width: 30%;
+	float:left;
+}
+.pst{
+	margin-top: 50px;
+
+}
+button,textarea{
+	margin-top: 20px;
+}
+input{
+	margin-top: 15px;
+}
+select{
+	margin-top: -2px;
+}
+.a{
+	margin-top: 135px;
+}
+.b{
+	margin-top: 50px;
+}
+.c{
+	float: left;
+
+}
+.d{
+	float: left;
+}
+.e{
+	margin-top: 20px;
+}
+
